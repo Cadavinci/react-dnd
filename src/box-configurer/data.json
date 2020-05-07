@@ -22,5 +22,13 @@
     "configuration": {
       "order": 2
     }
+  },
+  {
+    "id": "w4",
+    "group": "ROOT",
+    "content": "w4-content",
+    "configuration": {
+      "order": 3
+    }
   }
 ]
