@@ -25,10 +25,18 @@
   },
   {
     "id": "w4",
-    "group": "ROOT",
+    "group": "w2",
     "content": "w4-content",
     "configuration": {
-      "order": 3
+      "order": 1
+    }
+  },
+  {
+    "id": "w5",
+    "group": "w2",
+    "content": "w5-content",
+    "configuration": {
+      "order": 2
     }
   }
 ]
